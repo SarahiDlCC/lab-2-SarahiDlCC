@@ -16,3 +16,7 @@ x  f(x)
 5  105
 ***********
 ```
+
+## Resultado
+
+![alt text]({D35C6B9E-A9F0-4412-A74B-C5BA68D27877}.png)
