@@ -6,4 +6,8 @@ Escriba un programa de C ++ que lea tres números del teclado y encuentre el nú
 
 ## ✅ Resultado
 
-(Añadir captura de pantalla del resultado de la ejecución)
+Código
+
+![alt text]({BA8AA3AC-8373-4675-87C4-58F64D292734}.png)
+
+![alt text]({695D0833-7C3A-4D77-B1A4-BF0E22211827}.png)

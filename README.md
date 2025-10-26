@@ -1,11 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6R5cf2yf)
 # Laboratorio 2. Metodología de la programación con C++
 
 ## 👤 Información del alumno
 
-- Nombre:
-- Matrícula:
-- Fecha:
+- Nombre: Sarahi De la cruz Cortes
+- Matrícula: S25018114
+- Fecha: 25 de octubre del 2025
 
 ## 🎯 Objetivos
 
