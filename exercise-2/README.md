@@ -25,10 +25,14 @@ Supongamos que el usuario ha introducido los siguientes conjuntos de números. P
    | -------- | -------- | ---------------- | ------ |
    | 73       | 22       | cout << 73 % 22; |    7   |
    | 0        | 100      | cout << 0 % 100; |    0   |
-   | 100      | 0        | cout << 100 % 0; | ERROR  | Porque no es válido dividir entre 0 en programación
+   | 100      | 0        | cout << 100 % 0; | ERROR  |
    | -3       | 3        | cout << -3 % 3;  |    0   | 
-   | 9        | 4.5      | cout << 9 % 4.5; | ERROR  | El operador módulo solo funciona con enteros
+   | 9        | 4.5      | cout << 9 % 4.5; | ERROR  | 
    | 16       | 2        | cout << 16 % 2;  |    0   |
+
+Porque no es válido dividir entre 0 en programación en poner 100 % 0 y por eso da ERROR
+
+El operador módulo solo funciona con enteros en el 9 % 4.5 por eso da ERROR
 
 2. ¿Qué pasa si colocamos un punto y coma (;) después del final de la expresión de condición de una declaración if?
 
